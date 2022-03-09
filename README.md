@@ -8,4 +8,4 @@ I'm interested in Backend programming but doesn't mean I'm not ready for Fronten
 
 And that's it.
 
-**Working area, Dev in progress ! ** 💻⚠️ 
+*Working area, Dev in progress ! 💻⚠️ 
